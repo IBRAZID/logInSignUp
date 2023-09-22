@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "946794070639",
+    "project_id": "loginsignup-2777d",
+    "storage_bucket": "loginsignup-2777d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946794070639:android:96fabecd6744a4b6df039a",
+        "android_client_info": {
+          "package_name": "com.example.loginsignup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTFBdJdxxKOszuFw2uDq7BWUQB6bYhlsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946794070639:android:09e759b137a917f6df039a",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTFBdJdxxKOszuFw2uDq7BWUQB6bYhlsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
